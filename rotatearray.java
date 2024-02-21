@@ -1,6 +1,6 @@
 import java.io.*;
 
-class GFG {
+class rroo {
 
     public static int[] rotate(int arr[], int d, int n) {
         int p = 1;
